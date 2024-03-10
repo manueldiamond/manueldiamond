@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning back-end(Express,Node,Python,MongooseDB,lol,) development. 
   >>>>>I've mastered the art of front-end(React,Next,JS,Angular).
   >>>>>**72% there in my full-stack journey**
-- 💞️ I’m looking to collaborate on: Anything.. seriously ANYTHINGGGG
+- 💞️ I’m looking to collaborate on: Anything.. seriously ANYTHINGGGG. Hit me up ASAP!!
 - 📫 How to reach me ... oh email. manueldiamondlistowell@gmail.com
 
 <!---
