@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @manueldiamond
-- 👀 I’m interested in programming and Software development.
-- 🌱 I’m currently learning frontend Web Dev with React.js
-- 💞️ I’m looking to collaborate on: Yh... not sure honestly.
+- 👀 I’m interested in programming and Software development and Game dev... I LOOVE game dev.
+- 🌱 I’m currently learning back-end(Express,Node,Python,MongooseDB,lol,) development. 
+  >>>>>I've mastered the art of front-end(React,Next,JS,Angular).
+  >>>>>**72% there in my full-stack journey**
+- 💞️ I’m looking to collaborate on: Anything.. seriously ANYTHINGGGG
 - 📫 How to reach me ... oh email. manueldiamondlistowell@gmail.com
 
 <!---
