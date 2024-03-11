@@ -6,7 +6,7 @@
   >>>>>**72% there in my full-stack journey**
 - 💞️ I’m looking to collaborate on: Anything.. seriously ANYTHINGGGG. Hit me up ASAP!!
 - 📫 How to reach me ... oh email. manueldiamondlistowell@gmail.com
-- I currently know: C,C++,Python,Js,Ts,Java,HTML,React,Next(13),Angular....,Node, Express,MySQL, ...... there's more I promise..
+- I currently know: C,C++,Python,Js,Ts,Java,HTML,React,Next(13),Angular....,Node,Firebase?, Express,MySQL, ...... there's more I promise..
 - I am good at.. lol only JavaScript and C.
 - OMG, I LOVEEE C. malloc is sick!.
 - Also Im too Lazy to make my portfolio site.... will drop a link when its done..
