@@ -10,7 +10,7 @@
 - I currently know: C,C++,Python,JavaScript,TypeScript,Java,HTML,React,Next.js,Angular....,Node,Firebase, Express,MySQL, ...... there's more I promise..
 
 - THIS WHOLE SECTION IS SEVERLY OUT OF DATE.
-- It's crazy how much can change within the span of year, but for me, it has.
+- It's crazy how much can change within the span of year.
 <!--
 manueldiamond/manueldiamond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
