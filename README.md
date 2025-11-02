@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning back-end(Express,Node,Python,MongooseDB,lol,) development. 
   >>>>>I've already mastered the art of front-end(React,Next,JS,Angular).
   >>>>>**72% there in my full-stack journey**
-  >>>>>Um, update on that, i sorta finished the fullstack thing, a LONNG time ago, and now, im trying to make sense of things like 
+  >>>>>
 - 💞️ I’m looking to collaborate on: Anything.. seriously ANYTHINGGGG. Hit me up ASAP!!https://github.com/manueldiamond/manueldiamond/blob/main/README.md
 - 📫 How to reach me ... oh email. manueldiamondlistowell@gmail.com
 - I currently know: C,C++,Python,JavaScript,TypeScript,Java,HTML,React,Next.js,Angular....,Node,Firebase, Express,MySQL, ...... there's more I promise..
