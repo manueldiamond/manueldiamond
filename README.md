@@ -12,6 +12,7 @@
 
 - THIS WHOLE SECTION IS SEVERLY OUT OF DATE.
 - It's crazy how much can change within the span of year.
+- Even crazier in 2, I think i should change this to a change log.
 <!--
 manueldiamond/manueldiamond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
